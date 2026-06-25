@@ -1,0 +1,49 @@
+# Geotecnia1 — Calama
+
+> Geotechnical engineering services in Calama, Chile.
+
+## Services
+- [Aislacion Sismica](https://calama.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://calama.geotecnia1.co/anclajes/)
+- [Calicatas Exploratorias](https://calama.geotecnia1.co/calicatas-exploratorias/)
+- [Cbr Vial](https://calama.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://calama.geotecnia1.co/cimentaciones/)
+- [Cimentaciones Superficiales](https://calama.geotecnia1.co/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://calama.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://calama.geotecnia1.co/ensayo-cpt/)
+- [Ensayo Triaxial](https://calama.geotecnia1.co/ensayo-triaxial/)
+- [Estabilidad Taludes](https://calama.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://calama.geotecnia1.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://calama.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://calama.geotecnia1.co/exploracion/)
+- [Geofisica](https://calama.geotecnia1.co/geofisica/)
+- [Geotecnia Vial](https://calama.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://calama.geotecnia1.co/granulometria/)
+- [Grouting](https://calama.geotecnia1.co/grouting/)
+- [Laboratorio In Situ](https://calama.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://calama.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://calama.geotecnia1.co/licuefaccion/)
+- [Limites Atterberg](https://calama.geotecnia1.co/limites-atterberg/)
+- [Losa De Cimentacion](https://calama.geotecnia1.co/losa-de-cimentacion/)
+- [Masw Vs30](https://calama.geotecnia1.co/masw-vs30/)
+- [Mejoramiento](https://calama.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://calama.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://calama.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://calama.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://calama.geotecnia1.co/pavimento-flexible/)
+- [Pavimento Rigido](https://calama.geotecnia1.co/pavimento-rigido/)
+- [Pilotes](https://calama.geotecnia1.co/pilotes/)
+- [Placa De Carga](https://calama.geotecnia1.co/placa-de-carga/)
+- [Resistividad Electrica Sev](https://calama.geotecnia1.co/resistividad-electrica-sev/)
+- [Sismica](https://calama.geotecnia1.co/sismica/)
+- [Sondaje Spt](https://calama.geotecnia1.co/sondaje-spt/)
+- [Taludes](https://calama.geotecnia1.co/taludes/)
+- [Tomografia Sismica](https://calama.geotecnia1.co/tomografia-sismica/)
+- [Vibrocompactacion](https://calama.geotecnia1.co/vibrocompactacion/)
+
+## Contact
+- Website: https://calama.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Calama, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
